@@ -5,12 +5,12 @@
 
 <br/>
 
- - 🔭 I am a python django developer and in love with python.
- - 🌱 I do open source in my free time which inspires me everyday to learn something new.
- - 👯 I have an affair with Java, doing DSA!
+ - 🔭 Currently working on some interesting full-stack projects at Oppia Foundation.
+ - 🌱 Co-Leading the Data and Stability team.
+ - 👯 I have made some projects in python-django which I enjoyed very much.
  - 😄 Always cooking some new different ideas to work upon.
  - 🌱 Well left windows in the altar cuz I realize I like Linux more. OOps!
- - 🔭 Love anime! if you too, totally reach out to me, lot to discuss. LOL!
+ - 🔭 Love anime! if you too, totally reach out to me, a lot to discuss. LOL!
  - 😄 FRIENDS Fan.
 
 
