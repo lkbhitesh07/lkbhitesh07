@@ -5,14 +5,13 @@
 
 <br/>
 
- - 🔭 Currently working on some interesting full-stack projects at Oppia Foundation.
- - 🌱 Co-Leading the Data and Stability team.
- - 👯 I have made some projects in python-django which I enjoyed very much.
- - 😄 Always cooking some new different ideas to work upon.
- - 🌱 Well left windows in the altar cuz I realize I like Linux more. OOps!
- - 🔭 Love anime! if you too, totally reach out to me, a lot to discuss. LOL!
- - 😄 FRIENDS Fan.
-
+ - Currently working on some interesting full-stack projects at Oppia Foundation.
+ - Co-Leading the Data and Stability team.
+ - Working as Sr Software Engineer at Nuflights.
+ - My tech stack majorly revolve around Python, Rust, Django, AWS.
+ - Always cooking some new different ideas to work upon.
+ - Well left windows in the altar cuz I realize I like Linux more.
+ - Love anime! if you too, totally reach out to me, a lot to discuss. LOL!
 
 <br />
 
