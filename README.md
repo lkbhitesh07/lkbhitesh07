@@ -5,29 +5,17 @@
 
 <br/>
 
- - Currently working on some interesting full-stack projects at Oppia Foundation.
- - Co-Leading the Data and Stability team.
- - Working as Sr Software Engineer at Nuflights.
- - My tech stack majorly revolve around Python, Rust, Django, AWS.
- - Always cooking some new different ideas to work upon.
- - Well left windows in the altar cuz I realize I like Linux more.
- - Love anime! if you too, totally reach out to me, a lot to discuss. LOL!
+• I have been part of the industry for about 5 years, love doing opensource, working on new ideas, learning something new every week.
+• DevOps-heavy backend engineer with real-world experience building and scaling production systems across Python, Rust, Django, and AWS.
+• Led high-impact engineering projects like request-simulation pipelines that cut regression time by half.
+• Worked on performance-focused backend improvements, including GraphQL integrations that slashed response times from seconds to milliseconds range.
+• Strong experience running PCI-compliant architectures, secure tokenization workflows, and multi-environment deployments.
+• Day-to-day, I’ve managed 6+ live environments and orchestrated smooth releases using AWS Copilot, ECS, RDS, S3, Parameter Store, and Git-based release flows.
+• Architected end-to-end data migration pipelines across cloud services, including Directus updates, S3 Glacier recovery, schema migrations, and cross-environment transitions.
+• Experience collaborating across distributed teams and supporting customers directly through debugging, ticket triage, and live environment fixes.
+• Co-founding engineer for Audiouly, shipping a Flutter-based music streaming app used by 100+ users.
+• Deeply involved in open source: contributor and reviewer at Oppia (1M+ learners), Apache Beam work through Google Summer of Code (student + mentor), and backend PR oversight.
+• Passionate about building reliable systems, improving developer ergonomics through automation, and mentoring engineers in data and stability workflows.
+• Comfortable hopping between DevOps, backend architecture, cloud infra, and optimization tasks as needed.
 
 <br />
-
-## Skills 🤖
-
-<p align="center">
-  <code><img height="48" src="https://img.icons8.com/nolan/64/python.png" /></code>
-  <code><img height="48" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png" /></code>
-  <code><img height="48" src="https://img.icons8.com/color/48/000000/django.png" /></code>
-  <code><img height="48" src="https://ksr-ugc.imgix.net/assets/011/705/984/4ea78430d3ad7dc88106a7b973248ba7_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1463687041&auto=format&frame=1&q=92&s=16f9ae9168eecef976e5a19887afb152" /></code>
-  <code><img height="48" src="https://img.icons8.com/nolan/48/linux--v2.png" /></code>
-  <code><img height="48" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></code>
-  <code><img height="48" src="https://img.icons8.com/dusk/50/000000/css3.png" /></code>
-  <code><img height="48" src="https://img.icons8.com/dusk/50/000000/html-5.png" /></code>
-</p>
-
-## Stats 👨‍💻
-<p align="center"><img align='center' src='https://github-readme-stats.vercel.app/api/top-langs?username=lkbhitesh07&show_icons=true&theme=radical'/>
-<img align='center' src='https://github-readme-stats.vercel.app/api?username=lkbhitesh07&show_icons=true&theme=radical'/></p>
