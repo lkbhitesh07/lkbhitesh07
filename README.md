@@ -25,7 +25,7 @@ Backend Engineer with **5 years of industry experience** building reliable cloud
 
 ## 📫 Connect with Me
 <p align="left">
-  <a href="https://drive.google.com/file/d/1iFvrGjYOcltvzg9CniPZX6S9C7Qldwp4/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1TyxemkBN3zTlD3ayYVFPlzUBX69qbAF1?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
   <a href="https://www.linkedin.com/in/hitesh-tomar-b88a62164/" target="_blank">
