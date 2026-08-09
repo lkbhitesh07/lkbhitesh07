@@ -1,29 +1,49 @@
 # Hi, I'm Hitesh Tomar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-Backend Engineer with **5 years of industry experience** building reliable cloud-native systems, scalable APIs, and developer tooling. I enjoy working across backend development, cloud infrastructure, DevOps, automation, and open source, with a strong focus on building maintainable, high-performance software.
+I'm a Backend Engineer focused on building reliable production systems with Python, Rust and AWS.
 
-## 🚀 What I work with
+I've been contributing to open source for 5+ years, primarily with Oppia, where I've contributed code, reviewed PRs and mentored contributors. I was a Google Summer of Code contributor in 2022 and later returned as a mentor.
 
-- **Languages:** Python, Rust, TypeScript
-- **Frameworks:** Django, GraphQL
-- **Databases:** PostgreSQL, Redis, DynamoDB
-- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, GitHub Actions, CI/CD
-- **Operating Systems:** Linux
+I'm currently learning system design, distributed systems and AI engineering — and sharing the journey publicly.
 
-## 🌍 Open Source
+## What I'm interested in
 
-- Contributor and reviewer for **Oppia**, helping improve a platform used by millions of learners worldwide.
-- **Google Summer of Code** participant and mentor.
+- Backend Engineering
+- System Design & Distributed Systems
+- Cloud Infrastructure & AWS
+- Python & Rust
+- Open Source & Developer Communities
+- AI Engineering
 
-## 🌱 Currently Exploring
+## Open Source
 
+I've been contributing to [Oppia](https://github.com/oppia/oppia) for 5+ years.
+
+Some of the areas I've worked on include:
+
+- Data cleanup and validation workflows using Apache Beam
+- Google Cloud Storage integrations
+- Feature-flag and controlled rollout systems
+- Developer workflow tooling
+- Pull request reviews
+- Contributor mentoring
+- Server issue investigation
+
+## Currently Learning
+
+- System Design
 - Distributed Systems
-- Serverless Architectures
-- Rust
-- AI Engineering & Developer Tools
-- Cloud Infrastructure
+- AI Engineering
+- Building AI-powered products
 
-## 📫 Connect with Me
+## My Engineering Philosophy
+
+> Build first. Learn while building. Share what you learn.
+
+I don't believe there is one perfect roadmap for becoming an engineer. Your learning path should serve the problems you want to solve.
+
+## Connect
+
 <p align="left">
   <a href="https://drive.google.com/drive/folders/1TyxemkBN3zTlD3ayYVFPlzUBX69qbAF1?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
